@@ -6,7 +6,7 @@ title = "wh7f"
 description = "wh7f ..."
 
 # The default language; used in feeds.
-default_language = "en"
+default_language = "zh"
 
 # The site theme to use.
 theme = "DeepThought"
@@ -20,7 +20,7 @@ taxonomies = [
 ]
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false
 
 [markdown]
 # Whether to do syntax highlighting
