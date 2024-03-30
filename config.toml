@@ -62,5 +62,5 @@ avatar = "/images/cat.jpg"
 github = "wh7f"
 email = "wanghao7f@outlook.com"
 
-[extra.analytics]
-google = "G-P56ZFRVLNH"
+# [extra.analytics]
+# google = "G-P56ZFRVLNH"
