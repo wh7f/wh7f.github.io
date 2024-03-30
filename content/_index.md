@@ -1,4 +1,4 @@
 +++
 title = "wh7f"
-description = "Rust | Go | Python"
+description = "AI Code Generator"
 +++
